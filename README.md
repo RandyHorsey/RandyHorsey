@@ -6,9 +6,12 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Certifications</h2>
-- <b>Google Foundations of Cybersecurity</b> https://coursera.org/share/fb658bf4484eff657e858ad97d60d1f9
+
+*  <b>Google Foundations of Cybersecurity</b> https://coursera.org/share/fb658bf4484eff657e858ad97d60d1f9
 
 <h2>🌱 I’m currently learning ...</h2>
+
+*  <b>Google Cybersecurity Professional Certificate (Coursera)<b>
 
 
 <h2> 🤳 Connect with me:</h2>
