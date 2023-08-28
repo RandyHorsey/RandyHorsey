@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security audit</b>
+- <b>Security Audit</b>
   - https://github.com/RandyHorsey/Security-audit
 <h2>Certifications</h2>
 
