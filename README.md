@@ -3,8 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security audits</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - https://github.com/RandyHorsey/Security-audit
 <h2>Certifications</h2>
 
 *  <b>Google Foundations of Cybersecurity</b> https://coursera.org/share/fb658bf4484eff657e858ad97d60d1f9
