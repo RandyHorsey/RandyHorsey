@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Audit</b>
-  - https://github.com/RandyHorsey/Security-audit
+- <b>Security Audit</b> https://github.com/RandyHorsey/Security-audit
+ - <b>Cybersecurity Incident Report: Network Trafffic Analysis</b>
+ 
 <h2>Certifications</h2>
 
 *  <b>Google - Foundations of Cybersecurity</b> https://coursera.org/share/fb658bf4484eff657e858ad97d60d1f9
