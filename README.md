@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Audit</b> https://github.com/RandyHorsey/Security-audit
- - <b>Cybersecurity Incident Report: Network Trafffic Analysis</b>
+ - <b>Cybersecurity Incident Report: Network Trafffic Analysis</b> https://github.com/RandyHorsey/Network-Traffic-Analysis
  
 <h2>Certifications</h2>
 
