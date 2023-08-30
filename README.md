@@ -2,13 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Audit</b> https://github.com/RandyHorsey/Security-audit
- - <b>Cybersecurity Incident Report: Network Trafffic Analysis</b> https://github.com/RandyHorsey/Network-Traffic-Analysis
- 
+- <b>Security Audit - </b> https://github.com/RandyHorsey/Security-audit
+ - <b>Cybersecurity Incident Report: Network Trafffic Analysis - </b> https://github.com/RandyHorsey/Network-Traffic-Analysis
+  - <b>Cybersecurity Incident Report: SYN flooding - </b>
+    
 <h2>Certifications</h2>
 
-*  <b>Google - Foundations of Cybersecurity</b> https://coursera.org/share/fb658bf4484eff657e858ad97d60d1f9
-*  <b>Google - Manage Security Risks</b> https://coursera.org/share/2aa477688b7c828fb8dc8f4665f9dd47
+*  <b>Google - Foundations of Cybersecurity - </b> https://coursera.org/share/fb658bf4484eff657e858ad97d60d1f9
+*  <b>Google - Manage Security Risks - </b> https://coursera.org/share/2aa477688b7c828fb8dc8f4665f9dd47
 
 <h2>🌱 I’m currently working on...</h2>
 
