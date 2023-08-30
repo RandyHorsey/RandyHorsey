@@ -4,7 +4,7 @@
 
 - <b>Security Audit - </b> https://github.com/RandyHorsey/Security-audit
  - <b>Cybersecurity Incident Report: Network Trafffic Analysis - </b> https://github.com/RandyHorsey/Network-Traffic-Analysis
-  - <b>Cybersecurity Incident Report: SYN flooding - </b>
+  - <b>Cybersecurity Incident Report: SYN flooding - </b> https://github.com/RandyHorsey/Incident-Report-DoS-attack-
     
 <h2>Certifications</h2>
 
