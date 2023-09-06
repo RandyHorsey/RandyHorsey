@@ -13,7 +13,8 @@
 
 *  <b>Google - Foundations of Cybersecurity - </b> https://coursera.org/share/fb658bf4484eff657e858ad97d60d1f9
 *  <b>Google - Manage Security Risks - </b> https://coursera.org/share/2aa477688b7c828fb8dc8f4665f9dd47
-
+*  <b>Google - Connect and Protect: Networks and Network Security - </b> https://coursera.org/share/84614cd9612cd5c13f417c6e7aa25f55
+ 
 <h2>🌱 I’m currently working on...</h2>
 
 *  <b>Google Cybersecurity Professional Certificate (Coursera)<b>
