@@ -8,6 +8,7 @@
   - <b>Cybersecurity Incident Report: Brute force - </b> https://github.com/RandyHorsey/Incident-Report-Brute-force
   - <b>Security Risk Assessment Report - </b> https://github.com/RandyHorsey/Security-risk-assessment-report
   -  <b>Incident Report Analysis - </b> https://github.com/RandyHorsey/Incident-Report-Analysis-
+  -  <b>Linux - installing and uninstalling apps - </b> 
     
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
