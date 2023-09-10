@@ -11,6 +11,7 @@
   -  <b>Incident Report Analysis - </b> https://github.com/RandyHorsey/Incident-Report-Analysis-
  <h3>(Linux and SQL)</h3> 
  - <b>Linux - installing and uninstalling apps - </b> https://github.com/RandyHorsey/Linux-commands
+ - <b>Linux - input/output -</b>
  
     
 <h2>Certifications</h2>
