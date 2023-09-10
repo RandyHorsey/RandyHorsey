@@ -10,6 +10,7 @@
   -  <b>Incident Report Analysis - </b> https://github.com/RandyHorsey/Incident-Report-Analysis-
     
 <h2>Certifications</h2>
+<h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
 *  <b>Google - Foundations of Cybersecurity - </b> https://coursera.org/share/fb658bf4484eff657e858ad97d60d1f9
 *  <b>Google - Manage Security Risks - </b> https://coursera.org/share/2aa477688b7c828fb8dc8f4665f9dd47
