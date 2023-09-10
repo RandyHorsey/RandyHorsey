@@ -1,7 +1,7 @@
 <h1>Hi, I'm Randy!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-<h3>(Managing Security Risk and Network Security)</h3>
+       <h3>(Managing Security Risk and Network Security)</h3>
 
 - <b>Security Audit - </b> https://github.com/RandyHorsey/Security-audit
  - <b>Cybersecurity Incident Report: Network Trafffic Analysis - </b> https://github.com/RandyHorsey/Network-Traffic-Analysis
@@ -9,8 +9,8 @@
   - <b>Cybersecurity Incident Report: Brute force - </b> https://github.com/RandyHorsey/Incident-Report-Brute-force
   - <b>Security Risk Assessment Report - </b> https://github.com/RandyHorsey/Security-risk-assessment-report
   -  <b>Incident Report Analysis - </b> https://github.com/RandyHorsey/Incident-Report-Analysis-
- <h3>(Linux and SQL)</h3> 
- - <b>Linux - installing and uninstalling apps - </b> https://github.com/RandyHorsey/Linux-commands
+     <h3>(Linux and SQL)</h3>  
+  - <b>Linux - installing and uninstalling apps - </b> https://github.com/RandyHorsey/Linux-commands
  - <b>Linux - input/output -</b> https://github.com/RandyHorsey/Linux--input-and-output
  
     
