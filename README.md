@@ -12,7 +12,7 @@
      <h3>(Linux and SQL)</h3>  
   - <b>Linux - installing and uninstalling apps - </b> https://github.com/RandyHorsey/Linux-commands
  - <b>Linux - input/output -</b> https://github.com/RandyHorsey/Linux--input-and-output
- - <b>Linux - directories -</b> 
+ - <b>Linux - directories -</b> https://github.com/RandyHorsey/Linux-command---navigating-directories
  
     
 <h2>Certifications</h2>
