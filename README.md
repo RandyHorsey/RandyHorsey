@@ -13,7 +13,7 @@
   - <b>Linux - installing and uninstalling apps - </b> https://github.com/RandyHorsey/Linux-commands
  - <b>Linux - input/output -</b> https://github.com/RandyHorsey/Linux--input-and-output
  - <b>Linux - directories -</b> https://github.com/RandyHorsey/Linux-command---navigating-directories
- 
+  - <b>Linux - filtering with grep -</b>
     
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
