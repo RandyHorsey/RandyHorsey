@@ -15,7 +15,8 @@
  - <b>Linux - directories -</b> https://github.com/RandyHorsey/Linux-command---navigating-directories
   - <b>Linux - filtering with grep -</b> https://github.com/RandyHorsey/Linux---fliter-with-grep
  - <b>Linux - managing files -</b> https://github.com/RandyHorsey/Linux---managing-files
-    
+  - <b>Linux - managing authorization -</b>
+  
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
