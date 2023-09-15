@@ -16,7 +16,8 @@
   - <b>Linux - filtering with grep -</b> https://github.com/RandyHorsey/Linux---fliter-with-grep
  - <b>Linux - managing files -</b> https://github.com/RandyHorsey/Linux---managing-files
   - <b>Linux - managing authorization -</b> https://github.com/RandyHorsey/Linux---managing-authorization
-  
+  - <b>Linux - add and manage user -</b>
+     
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
