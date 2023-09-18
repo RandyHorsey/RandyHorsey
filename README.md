@@ -19,6 +19,7 @@
   - <b>Linux - add and manage user -</b> https://github.com/RandyHorsey/Linux---add-and-manage-users
   - <b>Linux - using command line to discover more commands -</b>  https://github.com/RandyHorsey/Linux---exploring-commands
   - <b>SQL - queries -</b> https://github.com/RandyHorsey/SQL-query-
+  - <b>SQL - filtering queries -</b>
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
