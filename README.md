@@ -17,7 +17,8 @@
  - <b>Linux - managing files -</b> https://github.com/RandyHorsey/Linux---managing-files
   - <b>Linux - managing authorization -</b> https://github.com/RandyHorsey/Linux---managing-authorization
   - <b>Linux - add and manage user -</b> https://github.com/RandyHorsey/Linux---add-and-manage-users
-  - <b>Linux - using command line to discover more commands -</b>  https://github.com/RandyHorsey/Linux---exploring-commands   
+  - <b>Linux - using command line to discover more commands -</b>  https://github.com/RandyHorsey/Linux---exploring-commands
+  - <b>SQL - queries -</b>
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
