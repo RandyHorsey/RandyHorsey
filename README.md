@@ -21,7 +21,7 @@
   - <b>SQL - queries -</b> https://github.com/RandyHorsey/SQL-query-
   - <b>SQL - filtering queries -</b> https://github.com/RandyHorsey/SQL---filtering-a-query-
   -  <b>SQL - filtering dates and times -</b> https://github.com/RandyHorsey/SQL---Filtering-dates-and-times
-  -  <b>SQL - filtering with AND, OR, and NOT operators -</b>
+  -  <b>SQL - filtering with AND, OR, and NOT operators -</b> https://github.com/RandyHorsey/SQL---Operators-AND-OR-and-NOT
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
