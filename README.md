@@ -23,6 +23,10 @@
   -  <b>SQL - filtering dates and times -</b> https://github.com/RandyHorsey/SQL---Filtering-dates-and-times
   -  <b>SQL - filtering with AND, OR, and NOT operators -</b> https://github.com/RandyHorsey/SQL---Operators-AND-OR-and-NOT
   - <b>SQL - joining tables -</b> https://github.com/RandyHorsey/SQL---joining-tables
+
+  <h3>(Managing Assets)</h3>
+
+- <b>Asset inventory & classification - </b> 
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
