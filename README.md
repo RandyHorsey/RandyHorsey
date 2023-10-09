@@ -24,9 +24,9 @@
   -  <b>SQL - filtering with AND, OR, and NOT operators -</b> https://github.com/RandyHorsey/SQL---Operators-AND-OR-and-NOT
   - <b>SQL - joining tables -</b> https://github.com/RandyHorsey/SQL---joining-tables
 
-  <h3>(Managing Assets)</h3> https://github.com/RandyHorsey/Asset-inventory-and-classification
+  <h3>(Managing Assets)</h3> 
 
-- <b>Asset inventory & classification - </b> 
+- <b>Asset inventory & classification - </b> https://github.com/RandyHorsey/Asset-inventory-and-classification
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
