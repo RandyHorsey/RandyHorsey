@@ -27,6 +27,7 @@
   <h3>(Managing Assets, Threats, and Vulnerabilities)</h3> 
 
 - <b>Asset inventory & classification - </b> https://github.com/RandyHorsey/Asset-inventory-and-classification
+- <b>Risk assessment - </b>
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
