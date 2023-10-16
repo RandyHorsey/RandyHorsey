@@ -29,7 +29,7 @@
 - <b>Asset inventory & classification - </b> https://github.com/RandyHorsey/Asset-inventory-and-classification
 - <b>Risk assessment - </b> https://github.com/RandyHorsey/Risk-assessment-
 - <b>Risk assessment (Data leak) - </b> https://github.com/RandyHorsey/Data-risk-assessment
-- <b>Decrypting an encrypted message -</b> 
+- <b>Decrypting an encrypted message -</b> https://github.com/RandyHorsey/Decrypting-an-encrypted-message
 - <b>Create hash values -</b> 
 
 <h2>Certifications</h2>
