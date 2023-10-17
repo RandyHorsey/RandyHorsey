@@ -31,7 +31,7 @@
 - <b>Risk assessment (Data leak) - </b> https://github.com/RandyHorsey/Data-risk-assessment
 - <b>Decrypting an encrypted message -</b> https://github.com/RandyHorsey/Decrypting-an-encrypted-message
 - <b>Create hash values -</b> https://github.com/RandyHorsey/Create-hash-values
-- <b>Improving AAA for a small business (access controls) - </b> 
+- <b>Improving AAA for a small business (access controls) - </b> https://github.com/RandyHorsey/Improving-AAA-access-controls-
 
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
