@@ -1,4 +1,4 @@
-<h1>Hi, I'm Randy,</h1><h2>Take a look at my work!</h2>
+<h1>Hi, I'm Randy,</h1><h2>take a look at my work!</h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
        <h3>(Managing Security Risk and Network Security)</h3>
