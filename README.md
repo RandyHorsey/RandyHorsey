@@ -34,6 +34,8 @@
 - <b>Improving AAA for a small business (access controls) - </b> https://github.com/RandyHorsey/Improving-AAA-access-controls-
 - <b>Vulnerability assessment - </b> https://github.com/RandyHorsey/Vulnerability-assessment-report
 
+<h3>(Detection and Response)</h3>
+- <b>Final Report - </b>
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
