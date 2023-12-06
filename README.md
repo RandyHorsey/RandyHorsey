@@ -35,7 +35,8 @@
 - <b>Vulnerability assessment - </b> https://github.com/RandyHorsey/Vulnerability-assessment-report
 
 <h3>(Detection and Response)</h3>
-- <b>Final Report - </b>
+- <b>Final Report - </b>https://github.com/RandyHorsey/Final-Report
+
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
