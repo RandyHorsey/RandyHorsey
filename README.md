@@ -37,6 +37,8 @@
 <h3>(Detection and Response)</h3>
 - <b>Final Report - </b>https://github.com/RandyHorsey/Final-Report
 
+<h3>(Python Coding)</h3>
+- 
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
 
