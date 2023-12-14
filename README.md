@@ -45,6 +45,7 @@
 - <b>Python - defining and calling a function -</b> https://github.com/RandyHorsey/Python---defining-and-calling-a-function
 - <b>Python - strings -</b>https://github.com/RandyHorsey/Python---strings
 - <b>Python - algorithms -</b>https://github.com/RandyHorsey/Python---algorithms
+- <b>Python - import and parse a text file -</b>https://github.com/RandyHorsey/Python---import-and-parse-a-text-file
 
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
