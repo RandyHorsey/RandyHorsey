@@ -42,7 +42,8 @@
 
 - <b>Python - print and comment -</b>https://github.com/RandyHorsey/Print-function-and-comment-hashtag
 - <b>Python - assigning Python variables -</b>https://github.com/RandyHorsey/Python---assigning-variables
-- <b>Python - defining and calling a function -<b/> https://github.com/RandyHorsey/Python---defining-and-calling-a-function
+- <b>Python - defining and calling a function -</b> https://github.com/RandyHorsey/Python---defining-and-calling-a-function
+- <b>Python - strings -</b>https://github.com/RandyHorsey/Python---strings
 
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
