@@ -39,6 +39,7 @@
 
 <h3>(Python Coding)</h3>
 - <b>Python - print and comment -</b>https://github.com/RandyHorsey/Print-function-and-comment-hashtag
+- <b>Python - assigning Python variables -</b>https://github.com/RandyHorsey/Python---assigning-variables
 
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
