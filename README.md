@@ -35,9 +35,11 @@
 - <b>Vulnerability assessment - </b> https://github.com/RandyHorsey/Vulnerability-assessment-report
 
 <h3>(Detection and Response)</h3>
+
 - <b>Final Report - </b>https://github.com/RandyHorsey/Final-Report
 
 <h3>(Python Coding)</h3>
+
 - <b>Python - print and comment -</b>https://github.com/RandyHorsey/Print-function-and-comment-hashtag
 - <b>Python - assigning Python variables -</b>https://github.com/RandyHorsey/Python---assigning-variables
 - 
