@@ -44,6 +44,7 @@
 - <b>Python - assigning Python variables -</b>https://github.com/RandyHorsey/Python---assigning-variables
 - <b>Python - defining and calling a function -</b> https://github.com/RandyHorsey/Python---defining-and-calling-a-function
 - <b>Python - strings -</b>https://github.com/RandyHorsey/Python---strings
+- <b>Python - algorithms -</b>https://github.com/RandyHorsey/Python---algorithms
 
 <h2>Certifications</h2>
 <h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
