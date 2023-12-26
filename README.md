@@ -48,12 +48,7 @@
 - <b>Python - import and parse a text file -</b>https://github.com/RandyHorsey/Python---import-and-parse-a-text-file
 
 <h2>Certifications</h2>
-<h3>Google Cybersecurity Professional Certificate (in progress)</h3> 
-
-*  <b>Google - Foundations of Cybersecurity - </b> https://coursera.org/share/fb658bf4484eff657e858ad97d60d1f9
-*  <b>Google - Manage Security Risks - </b> https://coursera.org/share/2aa477688b7c828fb8dc8f4665f9dd47
-*  <b>Google - Connect and Protect: Networks and Network Security - </b> https://coursera.org/share/84614cd9612cd5c13f417c6e7aa25f55
-*  <b>Google - Tools of the Trade: Linux and SQL - </b> https://coursera.org/share/d5f49a6a8a9038431115099cfd5aa86f
+<h3>Google Cybersecurity Professional Certificate</h3> https://coursera.org/share/98638a18d1e744d82aa6a3d43c816348
  
 <h2>🌱 I’m currently working on...</h2>
 
