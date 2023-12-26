@@ -48,11 +48,9 @@
 - <b>Python - import and parse a text file -</b>https://github.com/RandyHorsey/Python---import-and-parse-a-text-file
 
 <h2>Certifications</h2>
-<h3>Google Cybersecurity Professional Certificate</h3> https://coursera.org/share/98638a18d1e744d82aa6a3d43c816348
+- <h3>Google Cybersecurity Professional Certificate</h3> https://coursera.org/share/98638a18d1e744d82aa6a3d43c816348
  
-<h2>🌱 I’m currently working on...</h2>
-
-*  <b>Google Cybersecurity Professional Certificate (Coursera)<b>
+<h2>Looking to grow within the Cybersecurity field!🌱</h2> 
 
 
 <h2> 🤳 Connect with me:</h2>
