@@ -48,7 +48,7 @@
 - <b>Python - import and parse a text file -</b>https://github.com/RandyHorsey/Python---import-and-parse-a-text-file
 
 <h2>Certifications</h2>
-- <h3>Google Cybersecurity Professional Certificate</h3> https://coursera.org/share/98638a18d1e744d82aa6a3d43c816348
+- <b>Google Cybersecurity Professional Certificate</b> https://coursera.org/share/98638a18d1e744d82aa6a3d43c816348
  
 <h2>Looking to grow within the Cybersecurity field!🌱</h2> 
 
@@ -61,8 +61,6 @@
 
 [linkedin]: https://www.linkedin.com/in/randyhorsey/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
